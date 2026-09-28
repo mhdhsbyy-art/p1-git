@@ -1,1 +1,2 @@
 ini adalah text 1
+ini adalah text 2
